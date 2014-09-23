@@ -20,6 +20,16 @@ hitbtc:
         </ul>
       </p>
   coins: [btc, ltc]
+  
+SBEX:
+countries: [ch]
+location: [ch]
+icon: http://sbex.ch/wp-content/uploads/2014/02/favicon.ico
+label: Swiss Bitcoin Exchange
+url: http://www.sbex.ch
+content:|
+<p>Swiss Bitcoin Broker offering both cash deposit via BTMs and an online services.</p>
+coins: [btc]
 
 cryptsy:
   icon: https://www.cryptsy.com/favicon.ico
