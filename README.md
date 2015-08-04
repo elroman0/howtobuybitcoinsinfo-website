@@ -1,4 +1,24 @@
-Repo for howtobuybitcoins.info
+** http://howtobuybitcoins.info/ **
+
+---
+
+## Notice:
+
+Hey everyone,
+
+We're working hard to roll out a new and upgraded site for howtobuybitcoins.info with a lot of new features and realtime data.
+
+Rest assured, you can still contribute to the services.yaml file! These changes will be merged into the new site design.
+
+We're also including realtime feeds for exchange prices - if there's a public exchange price feed we don't have, let us know.
+
+We're the original, and most high-traffic site for discovering how to buy bitcoins... and with the new version, howtobuybitcoins.info will continue to be the BEST PLACE to learn how to buy bitcoin... hold onto your hats!
+
+Jonathan Waller @ LUXSTACK
+howtobuybitcoins.info
+
+---
+
 
 ## File Format
 
