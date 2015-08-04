@@ -1,8 +1,6 @@
-** http://howtobuybitcoins.info/ **
+http://howtobuybitcoins.info/
 
 ---
-
-## Notice:
 
 Hey everyone,
 
@@ -15,6 +13,7 @@ We're also including realtime feeds for exchange prices - if there's a public ex
 We're the original, and most high-traffic site for discovering how to buy bitcoins... and with the new version, howtobuybitcoins.info will continue to be the BEST PLACE to learn how to buy bitcoin... hold onto your hats!
 
 Jonathan Waller @ LUXSTACK
+
 howtobuybitcoins.info
 
 ---
