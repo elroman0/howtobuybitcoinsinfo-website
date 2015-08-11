@@ -4,7 +4,7 @@
 
 ---
 
-Reach over 100,000 bitcoin users and Forex traders every month! Get discovered fast on our apps, platform services and on the world's most visited bitcoin exchange and services directory, [HowToBuyBitcoins.info](http://howtobuybitcoins.info/).
+Reach over 100,000 bitcoin users and Forex traders every month! Get discovered fast in our apps, platform services and on the world's most visited bitcoin exchange and services directory, [HowToBuyBitcoins.info](http://howtobuybitcoins.info/).
 
 [**Get Discovered Free!**](https://luxstack.com/getdiscovered)
 
